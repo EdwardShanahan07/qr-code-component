@@ -24,4 +24,8 @@ html {
 body {
   background-color: var(--color-light-gray);
   font-family: var(--font-family);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
